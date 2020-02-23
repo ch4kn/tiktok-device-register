@@ -4,7 +4,7 @@ Free <b>10</b> Device Register & Free <b>5</b> X-Gorgon, X-Khronos Api Request<b
 Register https://tiktok-service-api.herokuapp.com/<br/><br/>
 Email : c.kizilaslan@hotmail.com.tr<br/><br/>
 
-Skype : [ckn.89](skype:ckn.89)<br/><br/>
+Skype : ckn.89<br/><br/>
 
 <img src="https://i.ibb.co/KwGhvfG/device-register.gif"/>
 <br/><br/>
